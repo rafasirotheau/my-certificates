@@ -8,7 +8,7 @@ This certificate represents the completion of the Tech Lead Program offered by I
 
 - **Issuer**: IFTL
 - **Program Name**: Tech Lead Program
-- **Certificate**: [Certificate file to be uploaded]
+- **Certificate**: [certificado-conclusao-tlp.pdf](./certificado-conclusao-tlp.pdf)
 
 ## Additional Information
 
