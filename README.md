@@ -13,7 +13,7 @@ Format: `issuer-program-name` (lowercase, hyphen-separated)
 Example:
 - **Issuer**: IFTL
 - **Program**: Tech Lead Program
-- **Folder name**: `iftl-tech-lead`
+- **Folder name**: `iftl-tech-lead-program`
 
 ### Folder Contents
 
@@ -23,4 +23,4 @@ Each certificate folder contains:
 
 ## Certificates
 
-- [IFTL Tech Lead](./iftl-tech-lead/) - Tech Lead Program by IFTL
+- [IFTL Tech Lead Program](./iftl-tech-lead-program/) - Tech Lead Program by IFTL
