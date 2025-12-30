@@ -8,36 +8,18 @@ This file provides an English translation of the certificate content originally 
 
 ### Tech Lead Program (TLP)
 
-**IFTL - Institute of Technology and Leadership Training**  
+**Issuer:** IFTL - Institute of Technology and Leadership Training
 (Instituto de Formação de Tecnologia e Liderança)
 
 ---
 
-We certify that
-
-**Rafael Sirotheau**
-
-completed the Tech Lead Mentorship with distinction
+We certify that **Rafael Sirotheau** completed the Tech Lead Mentorship with distinction
 
 ---
 
-### Program Details
+**Program Duration:** 20 hours
 
-The Tech Lead Program is designed to develop technical leadership skills, combining technical expertise with people management, strategic thinking, and organizational impact.
-
-**Key Areas Covered:**
-- Technical Leadership and Team Management
-- Software Architecture and System Design
-- Agile Methodologies and Project Management
-- Communication and Stakeholder Management
-- Career Development and Mentorship
-- Strategic Thinking and Business Alignment
-
----
-
-**Completion Date:** [Date from certificate]
-
-**Program Duration:** [Duration from certificate]
+**Completion Date:** 2024-04-17
 
 ---
 
@@ -49,7 +31,7 @@ The Tech Lead Program is designed to develop technical leadership skills, combin
 
 ### Notes
 
-- Original certificate in Portuguese: `certificado-conclusao-tlp.pdf`
+- Original certificate in Portuguese: [`certificado-conclusao-tlp.pdf`](./certificado-conclusao-tlp.pdf) 
 - IFTL (Instituto de Formação de Tecnologia e Liderança) is an institute focused on technology and leadership training
 - TLP stands for "Tech Lead Program"
 
