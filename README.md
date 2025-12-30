@@ -20,6 +20,9 @@ Example:
 Each certificate folder contains:
 - **Certificate file**: Usually a PDF document
 - **README.md**: Summary of the program and additional information
+- **Localization file**: `localization.[LANGUAGE].md` - Translation/localization of certificate content (optional)
+  - If certificate is in Portuguese, localization file should be `localization.en.md` (English)
+  - If certificate is in English, localization file should be `localization.pt.md` (Portuguese)
 
 ## Certificates
 
