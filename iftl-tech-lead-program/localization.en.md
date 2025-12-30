@@ -13,11 +13,11 @@ This file provides an English translation of the certificate content originally 
 
 ---
 
-This certifies that
+We certify that
 
-**[Certificate Holder Name]**
+**Rafael Sirotheau**
 
-has successfully completed the **Tech Lead Program (TLP)** offered by IFTL - Institute of Technology and Leadership Training, having met all the requirements and demonstrated proficiency in the competencies developed throughout the program.
+completed the Tech Lead Mentorship with distinction
 
 ---
 
